@@ -1,0 +1,128 @@
+/* Fonts */
+
+/* Global */
+
+.website {
+  height: auto;
+  padding-top: 100px;
+  background-color: #2b2b2b;
+  color: white;
+  padding-bottom: 220px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+/* Home */
+
+.homeTitle {
+  width: 100%;
+  height: 500px;
+  margin: 0 auto;
+  padding-top: 210px;
+  background-image: url("https://lh5.googleusercontent.com/hu922Kq367NL0xRgUoamokMCQ4GvDLOsos9Vu1ETVxQ0nRGEQp4fBxcQ3OVRLjaLyjcQQITVAXNBFRiql2afvUsAzHGp38K1sTrg7hRA190uP21c7ZZW5D-J2_XQ6doBTQ=w1280");
+  background-size: cover;
+  text-align: center;
+  font-size: 500px;
+  margin-bottom: 30px;
+  border-radius: 40px;
+  -webkit-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  -moz-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+}
+
+.homeTitle h1 {
+  font-size: 50px;
+}
+
+.homeTitleText {
+  text-shadow: 4px 4px 15px rgba(0, 0, 0, 0.6);
+}
+
+.homeHeaderRight {
+  width: 100%;
+  height: 500px;
+  background-image: url("https://lh4.googleusercontent.com/trf6aHL5ZTdRYnZarpWOrYoVezwbxlI8r7EJpOqqsl33y3rN6JRYC1hnraGTz-37OwZ68At2nq2LnBf_nM-zny9rMcJJpZUHp0YV7yMxzkcJy0JEpazzQNMhx6IMECCYUQ=w1280");
+  background-size: cover;
+  border-radius: 40px;
+}
+
+.homeDesc {
+  padding-top: 50px;
+}
+
+.homeServicesLeftPhoto {
+  width: 100%;
+  height: 95%;
+  border-radius: 20px;
+  background-image: url("https://lh3.googleusercontent.com/t7QAE_qVCGW1ni0ol56hkrliTtCtEttFbajVDbxUKnmrM2RZieMOjlB8bBga3tWTiyEei_OfaWSDOr1qQpiDEePayXXq4ivf9ZCumv_9kErlQCuZaM8L1C2_Qn36_bzKdg=w1280");
+  background-size: cover;
+  -webkit-box-shadow: inset 0px 0px 35px 27px rgba(43, 43, 43, 1);
+  -moz-box-shadow: inset 0px 0px 35px 27px rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 35px 27px rgba(43, 43, 43, 1);
+}
+
+.card {
+  width: 320px;
+  margin-bottom: 20px;
+  background-color: transparent !important;
+  border: none;
+}
+
+.card-body {
+  background-color: #5a5a5a !important;
+  border-radius: 15px;
+}
+
+.card-title {
+  color: white;
+}
+
+.cardPhoto1 {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  background-image: url("https://lh4.googleusercontent.com/Tn3-qFF842eZSmfF7laoylIdpS0jlJmLCPX-BWmQTemMaqb1xLRYX844MwOBLT5Sw2u9IYq_fEXxxlChjKVglG3JQs5aJoG6wNvqzOHwTxB_zacb1vPqblwwVq_t8c4w2Q=w1280");
+  background-size: cover;
+  -webkit-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  -moz-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+}
+.cardPhoto2 {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  background-image: url("https://lh4.googleusercontent.com/KGUq3RmDX3OLbb6ffPMChR04t9jTui_tXSG0700pLm5MrWLUeTjbcrGqvYJ1IhFl2qxV4DzMrY_KElAQbpdRRvydHfTpyHpcTm_w7C6i6JyIXMV7MM8qLNNblvftippTFg=w1280");
+  background-size: cover;
+  -webkit-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  -moz-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+}
+.cardPhoto3 {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  background-image: url("https://lh5.googleusercontent.com/hu922Kq367NL0xRgUoamokMCQ4GvDLOsos9Vu1ETVxQ0nRGEQp4fBxcQ3OVRLjaLyjcQQITVAXNBFRiql2afvUsAzHGp38K1sTrg7hRA190uP21c7ZZW5D-J2_XQ6doBTQ=w1280");
+  background-size: cover;
+  -webkit-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  -moz-box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 35px -6px rgba(43, 43, 43, 1);
+}
+
+/* Chat */
+.salesBox {
+  width: 100%;
+  height: auto;
+  padding: 30px;
+  border-radius: 40px;
+  background-color: #5a5a5a;
+}
+
+.graphBox {
+  width: 100%;
+  height: auto;
+}
